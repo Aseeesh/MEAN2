@@ -4,7 +4,7 @@
 
 ##Introduction
 
-Basic Angular seed application created with Quick start application (Tour of users) given on angular website. It uses ExpressJS along with Mongo DB support (Mongoose) via a wrapper of Repository Pattern as Business layer.
+Basic Angular seed application created with Quick start application (Tour of Heros) given on angular website. It uses ExpressJS along with Mongo DB support (Mongoose) via a wrapper of Repository Pattern as Business layer.
 It also uses Gulp for running task and TsLint.The seed application is built over node and uses latest node packages.
  
 
